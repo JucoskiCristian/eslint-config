@@ -1,5 +1,5 @@
 {
-  "name": "@crizzjucoski/eslint-config",
+  "name": "eslint-config-crizzjucoski",
   "version": "1.0.0",
   "description": "Pacote de configuração do eslint para React",
   "main": "index.js",
