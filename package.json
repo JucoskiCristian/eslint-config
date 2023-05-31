@@ -1,0 +1,16 @@
+{
+  "name": "@crizzjucoski/eslint-config",
+  "version": "1.0.0",
+  "description": "Pacote de configuração do eslint para React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JucoskiCristian/eslint-config.git"
+  },
+  "keywords": [],
+  "author": "Cristian Jucoski",
+  "license": "ISC"
+}
