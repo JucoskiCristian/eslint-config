@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-crizzjucoski",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote de configuração do eslint para React",
   "main": "index.js",
   "scripts": {
